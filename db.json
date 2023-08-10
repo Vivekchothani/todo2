@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vivek",
+      "username": "vivek chothani",
+      "email": "chothani757@gmail.com",
+      "phone": "9265646316"
+    },
+    {
+      "id": 2,
+      "name": "Vivek",
+      "username": "vivek chothani",
+      "email": "chothani757@gmail.com",
+      "phone": "9265646316"
+    },
+    {
+      "id": 3,
+      "name": "Vivek",
+      "username": "vivek chothani",
+      "email": "chothani757@gmail.com",
+      "phone": "9265646316"
+    },
+    {
+      "id": 4,
+      "name": "Vivek",
+      "username": "vivek chothani",
+      "email": "chothani757@gmail.com",
+      "phone": "9265646316"
+    },
+    {
+      "id": 5,
+      "name": "Vivek",
+      "username": "vivek chothani",
+      "email": "chothani757@gmail.com",
+      "phone": "9265646316"
+    },
+    {
+      "name": "vivek chtohani",
+      "email": "vivek757@gmail.com",
+      "phone": "52525252",
+      "id": 6
+    }
+  ]
+}
